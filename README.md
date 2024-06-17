@@ -1,12 +1,12 @@
 # Emotion Detection Project
 
-## Install the following packages
+## 1. Install the following packages
 pip install numpy pandas tensorflow opencv-python
 
-## Run the following commands
-### Data Preprocessing
+## 2. Run the following commands
+### 2.1 Data Preprocessing
 python data_preprocessing.PY
-### Model Training
+### 2.2 Model Training
 python train_model.PY
-### Real-Time Emotion Detection - GUI
+### 2.3 Real-Time Emotion Detection - GUI
 python real_time_emotion_detection.PY

@@ -4,7 +4,7 @@
 ### 1.1 Packages
 pip install numpy pandas tensorflow opencv-python
 ### 1.2 Dataset
-<a href="https://www.kaggle.com/datasets/deadskull7/fer2013">FER2013</a>
+<a href="https://www.kaggle.com/datasets/deadskull7/fer2013" target="_blank">FER2013</a>
 
 ## 2. Run the following commands
 ### 2.1 Data Preprocessing

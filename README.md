@@ -13,3 +13,5 @@ python data_preprocessing.PY
 python train_model.PY
 ### 2.3 For real-time emotion detection - GUI
 python real_time_emotion_detection.PY
+### 2.4 For image emotion detection - GUI
+python photo_emotion_detection.PY
